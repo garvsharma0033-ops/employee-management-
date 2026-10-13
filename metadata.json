@@ -1,0 +1,6 @@
+{
+  "name": "Employee Management System - Java Desktop & Eclipse Project",
+  "description": "Production-grade Java Swing & JDBC Employee Management System desktop application for CODSOFT Internship by Garv Jangir.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
